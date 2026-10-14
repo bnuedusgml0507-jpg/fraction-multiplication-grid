@@ -15,3 +15,5 @@
 ## 배포
 
 `main` 브랜치에 변경 사항을 올리면 GitHub Actions가 GitHub Pages에 자동 배포합니다.
+
+Pages deployment uses the GitHub Actions source configured for this repository.
